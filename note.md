@@ -1,6 +1,7 @@
 # Terms (Danh từ)
 
 Repository (Repo): THư mục, dự án
+Branch: Cành và cành mặc định lúc nào cũng là master
 
 # Commands
 
@@ -26,4 +27,7 @@ Repository (Repo): THư mục, dự án
 * git log --oneline
   Muốn trở lại một thời điểm ban đầu thì sao ?
 
-- git checkout [id]: trở lại thời điểm mong muốn
+- git checkout {branch name}[id]: trở lại thời điểm mong muốn
+- git checkout master : trở về hiện tại
+- git branch : 
+- git checkout -b {branch name} : tạo ra branch mới 
