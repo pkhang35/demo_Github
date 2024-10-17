@@ -19,3 +19,11 @@ Repository (Repo): THư mục, dự án
 * ghi chú lại một chi tiết trước khi lưu cho biết quá trình trên dự án đang ở đâu
 * git commit -m 'initial commit'
 * initial commit: cam kết ban đầu
+
+- git log : coi thời điểm đã lưu
+  thoát git log nhấn phím q
+
+* git log --oneline
+  Muốn trở lại một thời điểm ban đầu thì sao ?
+
+- git checkout [id]: trở lại thời điểm mong muốn
