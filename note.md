@@ -29,5 +29,7 @@ Branch: Cành và cành mặc định lúc nào cũng là master
 
 - git checkout {branch name}[id]: trở lại thời điểm mong muốn
 - git checkout master : trở về hiện tại
-- git branch : 
-- git checkout -b {branch name} : tạo ra branch mới 
+- git branch :
+- git checkout -b {branch name} : tạo ra branch mới
+- git merge {branch name} : tổng hợp các branch
+- git branch -d {branch name} : xóa đi một branch
