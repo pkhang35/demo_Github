@@ -38,3 +38,12 @@ Remote: dữ liệu ko nằm trên máy tính mà nằm trên server
 - git branch -d {branch name} : xóa đi một branch
 - git push : Giúp đẩy lên local repo của mình trên remote repo
 
+Lấy từ remote repo về local
+
+- Git clone 'link'
+- Code .: mở vscode
+- Git push -u origin dev: đẩy branch dev lên remote repo
+
+add branch từ remote repo về local
+git fetch origin
+git checkout -b staging origin/staging
