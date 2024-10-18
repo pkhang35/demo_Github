@@ -2,6 +2,7 @@
 
 Repository (Repo): THư mục, dự án
 Branch: Cành và cành mặc định lúc nào cũng là master
+Conflict: xung đột
 
 # Commands
 
