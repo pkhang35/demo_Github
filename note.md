@@ -47,3 +47,6 @@ Lấy từ remote repo về local
 add branch từ remote repo về local
 git fetch origin
 git checkout -b staging origin/staging
+git publl: keo ve pull branch
+
+git remote add origin {repo URL}
